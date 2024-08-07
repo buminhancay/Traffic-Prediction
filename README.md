@@ -10,3 +10,5 @@ In the traffic_prediction_models.ipynb file you can find different AI models cod
 
 
 In the paper you can find article of the study.
+
+In the Dataset you can find the link of the zip file of dataset.
