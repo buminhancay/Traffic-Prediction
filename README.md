@@ -9,4 +9,4 @@ In the traffic_prediction_models.ipynb file you can find different AI models cod
 
 
 
-In the paper you can find motivation of the study and conclusions drawn of the projects.
+In the paper you can find article of the study.
